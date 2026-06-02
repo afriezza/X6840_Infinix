@@ -9,5 +9,5 @@ PRODUCT_PACKAGES += \
     twrp
 
 PRODUCT_RESTRICT_VENDOR_FILES := false
-$(call inherit-product, vendor/omni/config/common.mk)
+$(call inherit-product, vendor/orangefox/config/common.mk)
 
